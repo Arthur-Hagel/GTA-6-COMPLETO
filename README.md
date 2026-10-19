@@ -16,7 +16,7 @@ O projeto roda IA direto no navegador usando o **Puter.js**. Para a transformaç
 2. Clique em **Sign Up** e crie sua conta (é grátis, leva 1 minuto)
 3. Pronto — quando você enviar sua foto no projeto, o Puter pede login automaticamente
 
-> ⚠️ Sem a conta, a IA não roda e a foto não é transformada.
+> ⚠️ **Importante:** cada conta tem uma franquia grátis mensal de créditos de IA. Quando os créditos acabam, aparece o erro **"Low Balance"**. Nesse caso, é só **criar uma conta nova** no Puter e continuar usando — cada conta nova vem com créditos frescos.
 
 ## 🕹️ Como usar
 
@@ -28,6 +28,12 @@ O projeto roda IA direto no navegador usando o **Puter.js**. Para a transformaç
 6. Veja sua versão personagem do GTA aparecer na tela 🎉
 
 Se o seu navegador bloquear algo, rode um servidor local na pasta do projeto com `npx serve` (precisa do Node) e abra o endereço que ele mostrar.
+
+## 🎲 A mesma foto, resultados diferentes
+
+Cada geração é **única** — a mesma foto pode gerar **várias imagens diferentes**. A IA interpreta sua foto de um jeito novo a cada transformação: pode variar o cenário, a pose, o estilo e os detalhes do personagem.
+
+👉 Não curtiu o resultado? **Envie a mesma foto de novo** e veja qual versão de você sai dessa vez.
 
 ## 🧠 Como funciona
 
